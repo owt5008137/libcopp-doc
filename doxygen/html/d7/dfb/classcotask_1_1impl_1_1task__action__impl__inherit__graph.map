@@ -1,0 +1,5 @@
+<map id="cotask::impl::task_action_impl" name="cotask::impl::task_action_impl">
+<area shape="rect" id="node2" href="$d5/d49/classcotask_1_1task__action__function.html" title="{cotask::task_action\l_function\&lt; Ty \&gt;\n|&#45; func_\l|+ task_action_function()\l+ ~task_action_function()\l+ operator()()\l+ placement_destroy()\l}" alt="" coords="5,226,199,362"/>
+<area shape="rect" id="node3" href="$dc/d4a/classcotask_1_1task__action__functor.html" title="{cotask::task_action\l_functor\&lt; Ty \&gt;\n|&#45; functor_\l|+ task_action_functor()\l+ ~task_action_functor()\l+ operator()()\l+ placement_destroy()\l}" alt="" coords="223,226,410,362"/>
+<area shape="rect" id="node4" href="$dd/dc1/classcotask_1_1task__action__mem__function.html" title="{cotask::task_action\l_mem_function\&lt; Ty, Tc \&gt;\n|&#45; instacne_\l&#45; func_\l|+ task_action_mem_function()\l+ ~task_action_mem_function()\l+ operator()()\l+ placement_destroy()\l}" alt="" coords="434,219,669,369"/>
+</map>

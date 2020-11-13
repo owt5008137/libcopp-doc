@@ -1,0 +1,13 @@
+<map id="/home/travis/build/owt5008137/libcopp/include/libcotask/impl/task_impl.h" name="/home/travis/build/owt5008137/libcopp/include/libcotask/impl/task_impl.h">
+<area shape="rect" id="node4" href="$da/dc7/atomic__int__type_8h.html" title="整数类型的原子操作跨平台适配 Licensed under the MIT licenses. " alt="" coords="237,213,388,255"/>
+<area shape="rect" id="node8" href="$d5/d31/compiler__features_8h.html" title="libcopp/utils/config\l/compiler_features.h" alt="" coords="728,392,884,433"/>
+<area shape="rect" id="node9" href="$d0/d92/libcopp__build__features_8h.html" title="libcopp/utils/config\l/libcopp_build_features.h" alt="" coords="535,303,720,344"/>
+<area shape="rect" id="node11" href="$d9/df0/smart__ptr_8h.html" title="导入智能指针库 Licensed under the MIT licenses. " alt="" coords="1073,124,1240,165"/>
+<area shape="rect" id="node13" href="$d2/db4/uint64__id__allocator_8h.html" title="libcopp/utils/uint64\l_id_allocator.h" alt="" coords="565,213,711,255"/>
+<area shape="rect" id="node14" href="$d6/d93/lock__holder_8h.html" title="锁管理器 Licensed under the MIT licenses. " alt="" coords="957,213,1089,255"/>
+<area shape="rect" id="node16" href="$da/d94/spin__lock_8h.html" title="自旋锁 Licensed under the MIT licenses. " alt="" coords="425,124,557,165"/>
+<area shape="rect" id="node17" href="$db/dfd/task__actions_8h.html" title="libcotask/task_actions.h" alt="" coords="697,131,875,158"/>
+<area shape="rect" id="node5" href="$d8/def/explicit__declare_8h.html" title="导入继承关系约束 &#160;Licensed under the MIT licenses. " alt="" coords="100,310,261,337"/>
+<area shape="rect" id="node10" href="$df/d29/compile__optimize_8h.html" title="compile_optimize.h" alt="" coords="552,399,703,426"/>
+<area shape="rect" id="node18" href="$d0/d45/task__action__impl_8h.html" title="libcotask/impl/task\l_action_impl.h" alt="" coords="735,213,882,255"/>
+</map>

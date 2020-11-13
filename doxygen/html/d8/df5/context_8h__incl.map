@@ -1,0 +1,15 @@
+<map id="/home/travis/build/owt5008137/libcopp/include/libcopp/future/context.h" name="/home/travis/build/owt5008137/libcopp/include/libcopp/future/context.h">
+<area shape="rect" id="node3" href="$d2/dd8/poll_8h.html" title="poll.h" alt="" coords="673,124,732,151"/>
+<area shape="rect" id="node4" href="$d8/d6b/storage_8h.html" title="storage.h" alt="" coords="661,199,744,225"/>
+<area shape="rect" id="node6" href="$d5/d31/compiler__features_8h.html" title="libcopp/utils/config\l/compiler_features.h" alt="" coords="1195,452,1351,493"/>
+<area shape="rect" id="node7" href="$db/d95/coroutine_8h.html" title="libcopp/utils/std/coroutine.h" alt="" coords="903,281,1105,307"/>
+<area shape="rect" id="node10" href="$d8/def/explicit__declare_8h.html" title="导入继承关系约束 &#160;Licensed under the MIT licenses. " alt="" coords="518,273,695,315"/>
+<area shape="rect" id="node11" href="$d8/dea/functional_8h.html" title="导入高级库，hash、引用包装等 Licensed under the MIT licenses. " alt="" coords="97,281,303,307"/>
+<area shape="rect" id="node14" href="$d9/df0/smart__ptr_8h.html" title="导入智能指针库 Licensed under the MIT licenses. " alt="" coords="327,273,494,315"/>
+<area shape="rect" id="node16" href="$df/d63/type__traits_8h.html" title="type_traits compatiable Licensed under the MIT licenses. " alt="" coords="719,273,878,315"/>
+<area shape="rect" id="node19" href="$de/d47/features_8h.html" title="libcopp/utils/features.h" alt="" coords="1129,281,1300,307"/>
+<area shape="rect" id="node8" href="$d0/d92/libcopp__build__features_8h.html" title="libcopp/utils/config\l/libcopp_build_features.h" alt="" coords="897,363,1082,404"/>
+<area shape="rect" id="node9" href="$df/d29/compile__optimize_8h.html" title="compile_optimize.h" alt="" coords="914,459,1065,486"/>
+<area shape="rect" id="node20" href="$df/d19/decltype_8h.html" title="decltype兼容层 Licensed under the MIT licenses. " alt="" coords="1107,370,1304,397"/>
+<area shape="rect" id="node21" href="$d8/dc2/errno_8h.html" title="errno.h" alt="" coords="1379,370,1447,397"/>
+</map>

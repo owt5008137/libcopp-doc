@@ -1,0 +1,7 @@
+<map id="copp::stack_pool&lt; TAlloc &gt;" name="copp::stack_pool&lt; TAlloc &gt;">
+<area shape="rect" id="node2" href="$db/d3c/classlibcopp_1_1util_1_1lock_1_1spin__lock.html" title="自旋锁 " alt="" coords="61,365,195,531"/>
+<area shape="rect" id="node3" href="$d6/dad/classlibcopp_1_1util_1_1lock_1_1atomic__int__type.html" title="{libcopp::util::lock\l::atomic_int_type\&lt; unsigned int \&gt;\n|&#45; data_\l|+ atomic_int_type()\l+ atomic_int_type()\l+ operator=()\l+ operator=()\l+ store()\l+ store()\l+ load()\l+ load()\l+ operator value_type()\l+ operator value_type()\land 28 more...\l&#45; atomic_int_type()\l&#45; operator=()\l&#45; operator=()\l}" alt="" coords="5,5,251,288"/>
+<area shape="rect" id="node4" href="$dd/dae/structcopp_1_1stack__pool_1_1configure__t.html" title="{copp::stack_pool\&lt; TAlloc\l \&gt;::configure_t\n|+ stack_size\l+ stack_offset\l+ gc_number\l+ max_stack_number\l+ max_stack_size\l+ min_stack_number\l+ min_stack_size\l+ auto_gc\l|}" alt="" coords="219,351,405,545"/>
+<area shape="rect" id="node6" href="$dd/df5/structcopp_1_1stack__context.html" title="{copp::stack_context\n|+ size\l+ sp\l|+ stack_context()\l+ ~stack_context()\l+ stack_context()\l+ operator=()\l+ reset()\l+ copy_from()\l}" alt="" coords="432,64,584,229"/>
+<area shape="rect" id="node7" href="$d8/d44/structcopp_1_1stack__pool_1_1limit__t.html" title="{copp::stack_pool\&lt; TAlloc\l \&gt;::limit_t\n|+ used_stack_number\l+ used_stack_size\l+ free_stack_number\l+ free_stack_size\l|}" alt="" coords="611,380,797,516"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d4/d27/structcopp_1_1future_1_1compact__storage__t_3_01T_00_01std_1_1shared__ptr_3_01T_01_4_01_4.html" title="copp::future::compact\l_storage_t\&lt; T, std::shared\l_ptr\&lt; T \&gt; \&gt;" alt="" coords="144,5,337,61"/>
+<area shape="rect" id="node3" href="$db/d12/structcopp_1_1future_1_1poll__storage__base__t.html" title="copp::future::poll\l_storage_base_t\&lt; T,\l TPTR \&gt;" alt="" coords="163,85,318,141"/>
+<area shape="rect" id="node4" href="$d9/d78/structcopp_1_1type__traits_1_1is__shared__ptr.html" title="copp::type_traits::\lis_shared_ptr\&lt; T \&gt;" alt="" coords="167,166,314,207"/>
+</map>

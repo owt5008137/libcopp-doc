@@ -1,0 +1,3 @@
+<map id="cotask::impl::task_impl" name="cotask::impl::task_impl">
+<area shape="rect" id="node2" href="$db/d5b/classcotask_1_1task.html" title="{cotask::task\&lt; TCO_MACRO \&gt;\n|&#45; stack_size_\l&#45; coroutine_obj_\l&#45; next_list_\l&#45; action_destroy_fn_\l&#45; ref_count_\l&#45; inner_action_lock_\l|+ task()\l+ next()\l+ next()\l+ next()\l+ next()\l+ next()\l+ next()\l+ next()\l+ await_task()\l+ await_task()\land 16 more...\l+ create_with_delegate()\l+ create()\l+ create()\l+ create()\l+ create()\l+ create()\l+ create()\l+ this_task()\l+ add_buffer_offset()\l+ sub_buffer_offset()\l&#45; task()\l&#45; active_next_tasks()\l&#45; _notify_finished()\l}" alt="" coords="5,439,217,927"/>
+</map>

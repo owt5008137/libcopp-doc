@@ -1,0 +1,37 @@
+<map id="/home/travis/build/owt5008137/libcopp/include/libcopp/coroutine/coroutine_context_base.h" name="/home/travis/build/owt5008137/libcopp/include/libcopp/coroutine/coroutine_context_base.h">
+<area shape="rect" id="node2" href="$d3/d6b/coroutine__context_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/coroutine\l/coroutine_context.h" alt="" coords="2343,124,2533,195"/>
+<area shape="rect" id="node3" href="$d7/d08/coroutine__context__container_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/coroutine\l/coroutine_context_container.h" alt="" coords="2701,243,2924,313"/>
+<area shape="rect" id="node31" href="$d1/d05/coroutine__context__fiber_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/coroutine\l/coroutine_context_fiber.h" alt="" coords="1716,243,1907,313"/>
+<area shape="rect" id="node35" href="$d9/d45/task__impl_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcotask/impl/task\l_impl.cpp" alt="" coords="1810,369,1983,439"/>
+<area shape="rect" id="node36" href="$d3/d0f/coroutine__context_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcopp/coroutine\l/coroutine_context.cpp" alt="" coords="2949,243,3119,313"/>
+<area shape="rect" id="node4" href="$da/d2c/task__macros_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcotask/task\l_macros.h" alt="" coords="2079,495,2247,565"/>
+<area shape="rect" id="node21" href="$d5/de3/sample__benchmark__coroutine_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_benchmark\l_coroutine.cpp" alt="" coords="2479,369,2685,439"/>
+<area shape="rect" id="node22" href="$d2/db5/sample__benchmark__coroutine__malloc_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_benchmark\l_coroutine_malloc.cpp" alt="" coords="2709,369,2916,439"/>
+<area shape="rect" id="node23" href="$dc/d6b/sample__benchmark__coroutine__mem__pool_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_benchmark\l_coroutine_mem_pool.cpp" alt="" coords="2940,369,3147,439"/>
+<area shape="rect" id="node24" href="$d2/d0c/sample__benchmark__coroutine__stack__pool_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_benchmark\l_coroutine_stack_pool.cpp" alt="" coords="3171,369,3377,439"/>
+<area shape="rect" id="node25" href="$d9/d34/sample__default__coroutine__context_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_default\l_coroutine_context.cpp" alt="" coords="3402,369,3581,439"/>
+<area shape="rect" id="node26" href="$df/d48/sample__linux__gcc__splited__segment_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_linux\l_gcc_splited_segment.cpp" alt="" coords="3605,369,3799,439"/>
+<area shape="rect" id="node27" href="$df/d2e/sample__readme__1_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_readme_1.cpp" alt="" coords="3823,376,4048,432"/>
+<area shape="rect" id="node28" href="$db/d1c/coroutine__context__base__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/coroutine\l_context_base_test.cpp" alt="" coords="4072,369,4247,439"/>
+<area shape="rect" id="node29" href="$d9/d1b/coroutine__context__private__data__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/coroutine\l_context_private_data\l_test.cpp" alt="" coords="2008,361,2175,447"/>
+<area shape="rect" id="node30" href="$d4/d43/coroutine__context__split__segment_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/coroutine\l_context_split_segment.cpp" alt="" coords="2199,369,2403,439"/>
+<area shape="rect" id="node5" href="$db/da4/task_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcotask/task.h" alt="" coords="1495,621,1675,677"/>
+<area shape="rect" id="node20" href="$db/de2/task__manager_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcotask/task\l_manager.h" alt="" coords="2658,613,2826,684"/>
+<area shape="rect" id="node6" href="$d2/d4c/sample__benchmark__task_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_benchmark\l_task.cpp" alt="" coords="1251,732,1457,803"/>
+<area shape="rect" id="node7" href="$d7/d4c/sample__benchmark__task__malloc_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_benchmark\l_task_malloc.cpp" alt="" coords="1481,732,1688,803"/>
+<area shape="rect" id="node8" href="$db/d49/sample__benchmark__task__mem__pool_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_benchmark\l_task_mem_pool.cpp" alt="" coords="1712,732,1919,803"/>
+<area shape="rect" id="node9" href="$d1/dc7/sample__benchmark__task__stack__pool_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_benchmark\l_task_stack_pool.cpp" alt="" coords="1943,732,2149,803"/>
+<area shape="rect" id="node10" href="$da/dcb/sample__readme__10_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_readme\l_10.cpp" alt="" coords="2173,732,2356,803"/>
+<area shape="rect" id="node11" href="$d4/d8e/sample__readme__2_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_readme_2.cpp" alt="" coords="2380,739,2605,795"/>
+<area shape="rect" id="node12" href="$dd/de3/sample__readme__3_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_readme_3.cpp" alt="" coords="2629,739,2855,795"/>
+<area shape="rect" id="node13" href="$df/d10/sample__readme__4_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_readme_4.cpp" alt="" coords="5,739,231,795"/>
+<area shape="rect" id="node14" href="$d6/df3/sample__readme__5_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_readme_5.cpp" alt="" coords="255,739,480,795"/>
+<area shape="rect" id="node15" href="$d9/d9f/coroutine__task__fiber__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/coroutine\l_task_fiber_test.cpp" alt="" coords="505,732,662,803"/>
+<area shape="rect" id="node16" href="$d4/d67/coroutine__task__manager__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/coroutine\l_task_manager_test.cpp" alt="" coords="2879,732,3061,803"/>
+<area shape="rect" id="node17" href="$de/d7a/coroutine__task__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/coroutine\l_task_test.cpp" alt="" coords="686,732,843,803"/>
+<area shape="rect" id="node18" href="$d1/d18/future__and__std__coroutine__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/future_and\l_std_coroutine_test.cpp" alt="" coords="867,732,1043,803"/>
+<area shape="rect" id="node19" href="$d4/d84/stack__pool__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/stack_pool\l_test.cpp" alt="" coords="1068,732,1227,803"/>
+<area shape="rect" id="node32" href="$d3/d30/coroutine__context__fiber__container_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/coroutine\l/coroutine_context_fiber\l_container.h" alt="" coords="1597,361,1786,447"/>
+<area shape="rect" id="node34" href="$da/d1b/coroutine__context__fiber_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcopp/coroutine\l/coroutine_context_fiber.cpp" alt="" coords="1367,369,1573,439"/>
+<area shape="rect" id="node33" href="$d2/d0e/coroutine__context__fiber__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/coroutine\l_context_fiber_test.cpp" alt="" coords="1605,495,1778,565"/>
+</map>

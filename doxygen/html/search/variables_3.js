@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['call_5fbackup',['call_backup',['../da/d01/structcopp_1_1future_1_1context__event__function__t.html#ab71cb69a0849763d0fc3fdbcf8790931',1,'copp::future::context_event_function_t']]],
+  ['call_5ftimes',['call_times',['../d1/db9/classtest__context__base__foo__runner.html#ab7afc1895d5d942d8ee18f91fe5e52db',1,'test_context_base_foo_runner']]],
+  ['callback_5fchildren_5f',['callback_children_',['../d1/d9e/classutil_1_1cli_1_1cmd__option__bind.html#abe2b5c73483cce92689d6ba2b3b08f08',1,'util::cli::cmd_option_bind']]],
+  ['callback_5ffuncs_5f',['callback_funcs_',['../d1/d9e/classutil_1_1cli_1_1cmd__option__bind.html#a3a0052022eab0130c8152817b3dfcac8',1,'util::cli::cmd_option_bind']]],
+  ['callee_5f',['callee_',['../db/dbb/classcopp_1_1coroutine__context.html#a7a3482931dcc08663bddfd814607e9ee',1,'copp::coroutine_context']]],
+  ['callee_5fstack_5f',['callee_stack_',['../db/dbb/classcopp_1_1coroutine__context.html#a01c266f151c105b64809757b2b622738',1,'copp::coroutine_context']]],
+  ['caller_5f',['caller_',['../db/dbb/classcopp_1_1coroutine__context.html#a35f73551b501f19a1ff42eabc3a37b06',1,'copp::coroutine_context']]],
+  ['clear_5fctx_5fwaker_5f',['clear_ctx_waker_',['../d1/d3a/classcopp_1_1future_1_1future__t.html#aa10ced25cae0d52c2edf469290399c48',1,'copp::future::future_t']]],
+  ['cmd_5farray_5f',['cmd_array_',['../d1/df6/classutil_1_1cli_1_1cmd__option__list.html#a3cfe6775622fbf10f8bcb9efe03c3431',1,'util::cli::cmd_option_list']]],
+  ['cmd_5fpaths',['cmd_paths',['../d6/dd9/structutil_1_1cli_1_1binder_1_1cmd__option__bind__base_1_1help__msg__t.html#ad1273f1cf6bdf3f340f3c266eb5f4a96',1,'util::cli::binder::cmd_option_bind_base::help_msg_t']]],
+  ['co_5farr',['co_arr',['../d5/de3/sample__benchmark__coroutine_8cpp.html#a366ab75a4a296f0730403a8cbdabd750',1,'co_arr():&#160;sample_benchmark_coroutine.cpp'],['../d2/db5/sample__benchmark__coroutine__malloc_8cpp.html#a4a01cfc372f76151b910bb2cec6c2fdb',1,'co_arr():&#160;sample_benchmark_coroutine_malloc.cpp'],['../dc/d6b/sample__benchmark__coroutine__mem__pool_8cpp.html#a4a01cfc372f76151b910bb2cec6c2fdb',1,'co_arr():&#160;sample_benchmark_coroutine_mem_pool.cpp']]],
+  ['color_5fmap',['COLOR_MAP',['../d1/d2d/classprint__color_1_1Win32ConsoleColor.html#a19d0c0f46aa722a0493d305e776e4e9a',1,'print_color.Win32ConsoleColor.COLOR_MAP()'],['../de/d3b/classprint__color_1_1TermColor.html#a49f92af09e026474cba40e4293fdfb0d',1,'print_color.TermColor.COLOR_MAP()'],['../dc/ddd/classprint__color_1_1HtmlColor.html#ab1fa5b66800ef377e8b71af8148b9c2b',1,'print_color.HtmlColor.COLOR_MAP()']]],
+  ['compact_5fstorage_5fselect_5ft',['compact_storage_select_t',['../d4/d09/namespacecopp_1_1future.html#ab256583e5362d8254026234c909bd53a',1,'copp::future']]],
+  ['compact_5fstorage_5ft',['compact_storage_t',['../d4/d09/namespacecopp_1_1future.html#a55f7d56058b49040c7f6302223e311b4',1,'copp::future']]],
+  ['conf_5f',['conf_',['../d1/d78/classcopp_1_1stack__pool.html#a930feb11df0cd82661bc9d38af4def50',1,'copp::stack_pool']]],
+  ['console_5fencoding',['console_encoding',['../dd/ddf/namespaceprint__color.html#ad0cfaca9e538cbc7cc52546dfcc69eef',1,'print_color']]],
+  ['const',['const',['../dd/ddf/namespaceprint__color.html#a73f815ad3cb9a6ade9fbb8d5f741b769',1,'print_color']]],
+  ['context',['context',['../d3/d36/structcopp_1_1future_1_1future__t_1_1clear__context__waker__t.html#a4ce62d87d1abfffebe3657231ad0d804',1,'copp::future::future_t::clear_context_waker_t']]],
+  ['context_5farr',['context_arr',['../d8/d2a/sample__benchmark__future__poll_8cpp.html#a7f9bfa2d3bf66008cb131fa0c378a37b',1,'context_arr():&#160;sample_benchmark_future_poll.cpp'],['../df/d0c/sample__benchmark__future__poll__no__trivial_8cpp.html#a7f9bfa2d3bf66008cb131fa0c378a37b',1,'context_arr():&#160;sample_benchmark_future_poll_no_trivial.cpp']]],
+  ['coroutine_5fobj_5f',['coroutine_obj_',['../db/d5b/classcotask_1_1task.html#a6ef50567ff3fcd72ecd19277e071e026',1,'cotask::task']]]
+];

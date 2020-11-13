@@ -1,0 +1,4 @@
+<map id="test_future_custom_poller_for_context&lt; T &gt;" name="test_future_custom_poller_for_context&lt; T &gt;">
+<area shape="rect" id="node2" href="$d1/d3e/classcopp_1_1future_1_1context__t.html" title="{copp::future::context\l_t\&lt; test_future_custom\l_poller_for_context \&gt;\n||+ context_t()\l+ poll_as()\l+ wake()\l+ set_wake_fn()\l+ get_wake_fn()\l+ get_wake_fn()\l+ get_private_data()\l+ get_private_data()\l&#45; context_t()\l&#45; context_t()\l&#45; operator=()\l&#45; operator=()\l}" alt="" coords="132,403,307,671"/>
+<area shape="rect" id="node3" href="$da/d01/structcopp_1_1future_1_1context__event__function__t.html" title="{copp::future::context\l_event_function_t\&lt; wake\l_fn_t \&gt;\n|+ func\l+ call_backup\l|+ context_event_function_t()\l+ ~context_event_function_t()\l+ invoke()\l+ set()\l+ get()\l+ get()\l}" alt="" coords="5,145,228,340"/>
+</map>

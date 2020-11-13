@@ -1,0 +1,35 @@
+<map id="/home/travis/build/owt5008137/libcopp/include/libcotask/task_manager.h" name="/home/travis/build/owt5008137/libcopp/include/libcotask/task_manager.h">
+<area shape="rect" id="node10" href="$da/d2c/task__macros_8h.html" title="libcotask/task_macros.h" alt="" coords="2058,124,2238,151"/>
+<area shape="rect" id="node11" href="$d7/d08/coroutine__context__container_8h.html" title="libcopp/coroutine/coroutine\l_context_container.h" alt="" coords="1182,288,1381,329"/>
+<area shape="rect" id="node22" href="$d8/dc2/errno_8h.html" title="errno.h" alt="" coords="47,831,115,858"/>
+<area shape="rect" id="node41" href="$d3/d30/coroutine__context__fiber__container_8h.html" title="libcopp/coroutine/coroutine\l_context_fiber_container.h" alt="" coords="1595,199,1794,240"/>
+<area shape="rect" id="node43" href="$d8/d04/standard__new__allocator_8h.html" title="libcotask/core/standard\l_new_allocator.h" alt="" coords="145,645,319,687"/>
+<area shape="rect" id="node44" href="$d3/dfa/task__impl_8h.html" title="libcotask/impl/task\l_impl.h" alt="" coords="2797,467,2944,508"/>
+<area shape="rect" id="node13" href="$d3/d6b/coroutine__context_8h.html" title="libcopp/coroutine/coroutine\l_context.h" alt="" coords="1686,377,1885,419"/>
+<area shape="rect" id="node36" href="$d5/d5a/stack__allocator_8h.html" title="libcopp/stack/stack\l_allocator.h" alt="" coords="543,556,689,597"/>
+<area shape="rect" id="node40" href="$dc/d9b/stack__traits_8h.html" title="libcopp/stack/stack\l_traits.h" alt="" coords="1484,645,1631,687"/>
+<area shape="rect" id="node14" href="$db/d50/coroutine__context__base_8h.html" title="coroutine_context_base.h" alt="" coords="1736,474,1925,501"/>
+<area shape="rect" id="node15" href="$dc/dd4/all_8hpp.html" title="libcopp/fcontext/all.hpp" alt="" coords="1743,563,1918,590"/>
+<area shape="rect" id="node17" href="$de/d47/features_8h.html" title="libcopp/utils/features.h" alt="" coords="917,742,1088,769"/>
+<area shape="rect" id="node18" href="$d5/d31/compiler__features_8h.html" title="libcopp/utils/config\l/compiler_features.h" alt="" coords="1879,913,2035,955"/>
+<area shape="rect" id="node19" href="$d0/d92/libcopp__build__features_8h.html" title="libcopp/utils/config\l/libcopp_build_features.h" alt="" coords="2069,824,2254,865"/>
+<area shape="rect" id="node24" href="$dc/db2/stack__context_8h.html" title="libcopp/stack/stack\l_context.h" alt="" coords="1993,645,2140,687"/>
+<area shape="rect" id="node25" href="$da/dc7/atomic__int__type_8h.html" title="整数类型的原子操作跨平台适配 Licensed under the MIT licenses. " alt="" coords="3029,645,3179,687"/>
+<area shape="rect" id="node28" href="$db/d02/intrusive__ptr_8h.html" title="侵入式智能指针 " alt="" coords="2265,645,2428,687"/>
+<area shape="rect" id="node31" href="$d8/dea/functional_8h.html" title="导入高级库，hash、引用包装等 Licensed under the MIT licenses. " alt="" coords="1231,563,1438,590"/>
+<area shape="rect" id="node34" href="$d9/df0/smart__ptr_8h.html" title="导入智能指针库 Licensed under the MIT licenses. " alt="" coords="370,735,537,776"/>
+<area shape="rect" id="node16" href="$de/de7/fcontext_8hpp.html" title="libcopp/fcontext/fcontext.hpp" alt="" coords="1705,653,1919,679"/>
+<area shape="rect" id="node23" href="$d8/dfd/config_8hpp.html" title="libcopp/fcontext/detail\l/config.hpp" alt="" coords="1592,735,1760,776"/>
+<area shape="rect" id="node21" href="$df/d19/decltype_8h.html" title="decltype兼容层 Licensed under the MIT licenses. " alt="" coords="1072,831,1269,858"/>
+<area shape="rect" id="node20" href="$df/d29/compile__optimize_8h.html" title="compile_optimize.h" alt="" coords="2086,921,2237,947"/>
+<area shape="rect" id="node26" href="$d8/def/explicit__declare_8h.html" title="导入继承关系约束 &#160;Licensed under the MIT licenses. " alt="" coords="3062,742,3223,769"/>
+<area shape="rect" id="node37" href="$d1/d4b/stack__allocator__malloc_8h.html" title="allocator/stack_allocator\l_malloc.h" alt="" coords="911,645,1094,687"/>
+<area shape="rect" id="node38" href="$d4/d3a/stack__allocator__memory_8h.html" title="allocator/stack_allocator\l_memory.h" alt="" coords="705,645,887,687"/>
+<area shape="rect" id="node39" href="$d1/dac/stack__allocator__pool_8h.html" title="allocator/stack_allocator\l_pool.h" alt="" coords="395,645,578,687"/>
+<area shape="rect" id="node42" href="$d1/d05/coroutine__context__fiber_8h.html" title="libcopp/coroutine/coroutine\l_context_fiber.h" alt="" coords="1686,288,1885,329"/>
+<area shape="rect" id="node45" href="$d2/db4/uint64__id__allocator_8h.html" title="libcopp/utils/uint64\l_id_allocator.h" alt="" coords="2756,645,2903,687"/>
+<area shape="rect" id="node46" href="$d6/d93/lock__holder_8h.html" title="锁管理器 Licensed under the MIT licenses. " alt="" coords="2537,735,2669,776"/>
+<area shape="rect" id="node48" href="$da/d94/spin__lock_8h.html" title="自旋锁 Licensed under the MIT licenses. " alt="" coords="3058,556,3190,597"/>
+<area shape="rect" id="node49" href="$db/dfd/task__actions_8h.html" title="libcotask/task_actions.h" alt="" coords="2655,563,2833,590"/>
+<area shape="rect" id="node50" href="$d0/d45/task__action__impl_8h.html" title="libcotask/impl/task\l_action_impl.h" alt="" coords="2693,735,2840,776"/>
+</map>

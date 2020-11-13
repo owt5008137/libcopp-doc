@@ -1,0 +1,29 @@
+<map id="/home/travis/build/owt5008137/libcopp/test/case/coroutine_context_base_test.cpp" name="/home/travis/build/owt5008137/libcopp/test/case/coroutine_context_base_test.cpp">
+<area shape="rect" id="node5" href="$dc/d96/test__macros_8h.html" title="frame/test_macros.h" alt="" coords="151,131,308,158"/>
+<area shape="rect" id="node19" href="$d7/d08/coroutine__context__container_8h.html" title="libcopp/coroutine/coroutine\l_context_container.h" alt="" coords="1147,124,1346,165"/>
+<area shape="rect" id="node7" href="$d6/d5c/test__manager_8h.html" title="test_manager.h" alt="" coords="309,221,432,247"/>
+<area shape="rect" id="node14" href="$d4/db8/shell__font_8h.html" title="cli/shell_font.h" alt="" coords="216,303,333,329"/>
+<area shape="rect" id="node16" href="$d6/df7/test__case__base_8h.html" title="test_case_base.h" alt="" coords="611,303,746,329"/>
+<area shape="rect" id="node15" href="$d5/d31/compiler__features_8h.html" title="libcopp/utils/config\l/compiler_features.h" alt="" coords="1150,735,1306,776"/>
+<area shape="rect" id="node21" href="$d3/d6b/coroutine__context_8h.html" title="libcopp/coroutine/coroutine\l_context.h" alt="" coords="1499,213,1698,255"/>
+<area shape="rect" id="node29" href="$d8/dc2/errno_8h.html" title="errno.h" alt="" coords="730,653,798,679"/>
+<area shape="rect" id="node45" href="$d5/d5a/stack__allocator_8h.html" title="libcopp/stack/stack\l_allocator.h" alt="" coords="1173,377,1320,419"/>
+<area shape="rect" id="node49" href="$dc/d9b/stack__traits_8h.html" title="libcopp/stack/stack\l_traits.h" alt="" coords="2327,467,2473,508"/>
+<area shape="rect" id="node22" href="$db/d50/coroutine__context__base_8h.html" title="coroutine_context_base.h" alt="" coords="1795,303,1984,329"/>
+<area shape="rect" id="node23" href="$dc/dd4/all_8hpp.html" title="libcopp/fcontext/all.hpp" alt="" coords="2045,385,2219,411"/>
+<area shape="rect" id="node25" href="$de/d47/features_8h.html" title="libcopp/utils/features.h" alt="" coords="1301,563,1472,590"/>
+<area shape="rect" id="node26" href="$d0/d92/libcopp__build__features_8h.html" title="libcopp/utils/config\l/libcopp_build_features.h" alt="" coords="1574,645,1759,687"/>
+<area shape="rect" id="node32" href="$dc/db2/stack__context_8h.html" title="libcopp/stack/stack\l_context.h" alt="" coords="1604,467,1751,508"/>
+<area shape="rect" id="node33" href="$da/dc7/atomic__int__type_8h.html" title="整数类型的原子操作跨平台适配 Licensed under the MIT licenses. " alt="" coords="2599,467,2750,508"/>
+<area shape="rect" id="node36" href="$db/d02/intrusive__ptr_8h.html" title="侵入式智能指针 " alt="" coords="2775,467,2937,508"/>
+<area shape="rect" id="node40" href="$d8/dea/functional_8h.html" title="导入高级库，hash、引用包装等 Licensed under the MIT licenses. " alt="" coords="1786,385,1993,411"/>
+<area shape="rect" id="node43" href="$d9/df0/smart__ptr_8h.html" title="导入智能指针库 Licensed under the MIT licenses. " alt="" coords="947,556,1114,597"/>
+<area shape="rect" id="node24" href="$de/de7/fcontext_8hpp.html" title="libcopp/fcontext/fcontext.hpp" alt="" coords="2039,474,2252,501"/>
+<area shape="rect" id="node30" href="$d8/dfd/config_8hpp.html" title="libcopp/fcontext/detail\l/config.hpp" alt="" coords="1796,556,1964,597"/>
+<area shape="rect" id="node28" href="$df/d19/decltype_8h.html" title="decltype兼容层 Licensed under the MIT licenses. " alt="" coords="1291,653,1488,679"/>
+<area shape="rect" id="node27" href="$df/d29/compile__optimize_8h.html" title="compile_optimize.h" alt="" coords="1591,742,1742,769"/>
+<area shape="rect" id="node34" href="$d8/def/explicit__declare_8h.html" title="导入继承关系约束 &#160;Licensed under the MIT licenses. " alt="" coords="2381,563,2542,590"/>
+<area shape="rect" id="node46" href="$d1/d4b/stack__allocator__malloc_8h.html" title="allocator/stack_allocator\l_malloc.h" alt="" coords="881,467,1063,508"/>
+<area shape="rect" id="node47" href="$d4/d3a/stack__allocator__memory_8h.html" title="allocator/stack_allocator\l_memory.h" alt="" coords="1190,467,1373,508"/>
+<area shape="rect" id="node48" href="$d1/dac/stack__allocator__pool_8h.html" title="allocator/stack_allocator\l_pool.h" alt="" coords="1397,467,1579,508"/>
+</map>

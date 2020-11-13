@@ -1,0 +1,51 @@
+<map id="/home/travis/build/owt5008137/libcopp/include/libcopp/utils/config/compiler_features.h" name="/home/travis/build/owt5008137/libcopp/include/libcopp/utils/config/compiler_features.h">
+<area shape="rect" id="node2" href="$db/d50/coroutine__context__base_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/coroutine\l/coroutine_context_base.h" alt="" coords="711,495,905,565"/>
+<area shape="rect" id="node4" href="$d3/d0f/coroutine__context_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcopp/coroutine\l/coroutine_context.cpp" alt="" coords="723,732,893,803"/>
+<area shape="rect" id="node5" href="$d8/d6b/storage_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/future\l/storage.h" alt="" coords="897,369,1063,439"/>
+<area shape="rect" id="node7" href="$d1/d4b/stack__allocator__malloc_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/stack\l/allocator/stack_allocator\l_malloc.h" alt="" coords="1715,361,1901,447"/>
+<area shape="rect" id="node9" href="$d6/d5c/stack__allocator__malloc_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcopp/stack/allocator\l/stack_allocator_malloc.cpp" alt="" coords="2319,495,2521,565"/>
+<area shape="rect" id="node10" href="$d4/d3a/stack__allocator__memory_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/stack\l/allocator/stack_allocator\l_memory.h" alt="" coords="1976,361,2163,447"/>
+<area shape="rect" id="node11" href="$de/d06/stack__allocator__memory_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcopp/stack/allocator\l/stack_allocator_memory.cpp" alt="" coords="2554,495,2766,565"/>
+<area shape="rect" id="node12" href="$d1/dac/stack__allocator__pool_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/stack\l/allocator/stack_allocator_pool.h" alt="" coords="1190,369,1423,439"/>
+<area shape="rect" id="node13" href="$df/df5/stack__allocator__posix_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/stack\l/allocator/stack_allocator\l_posix.h" alt="" coords="3397,361,3584,447"/>
+<area shape="rect" id="node14" href="$df/d45/stack__allocator__posix_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcopp/stack/allocator\l/stack_allocator_posix.cpp" alt="" coords="3057,495,3253,565"/>
+<area shape="rect" id="node15" href="$d0/d2e/stack__allocator__split__segment_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/stack\l/allocator/stack_allocator\l_split_segment.h" alt="" coords="3760,361,3947,447"/>
+<area shape="rect" id="node16" href="$df/de4/stack__allocator__split__segment_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcopp/stack/allocator\l/stack_allocator_split_segment.cpp" alt="" coords="3476,495,3727,565"/>
+<area shape="rect" id="node18" href="$d9/de5/stack__allocator__windows_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/stack\l/allocator/stack_allocator\l_windows.h" alt="" coords="3971,361,4157,447"/>
+<area shape="rect" id="node19" href="$d0/ddb/stack__allocator__windows_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcopp/stack/allocator\l/stack_allocator_windows.cpp" alt="" coords="3980,495,4196,565"/>
+<area shape="rect" id="node20" href="$dc/db2/stack__context_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/stack\l/stack_context.h" alt="" coords="3211,369,3373,439"/>
+<area shape="rect" id="node22" href="$d2/df2/stack__context_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcopp/stack/stack\l_context.cpp" alt="" coords="3277,495,3451,565"/>
+<area shape="rect" id="node24" href="$da/dc7/atomic__int__type_8h.html" title="整数类型的原子操作跨平台适配 Licensed under the MIT licenses. " alt="" coords="331,243,488,313"/>
+<area shape="rect" id="node26" href="$d3/dfa/task__impl_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcotask/impl\l/task_impl.h" alt="" coords="390,495,559,565"/>
+<area shape="rect" id="node28" href="$d0/d92/libcopp__build__features_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/utils\l/config/libcopp_build_features.h" alt="" coords="1622,124,1850,195"/>
+<area shape="rect" id="node32" href="$de/d47/features_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/utils\l/features.h" alt="" coords="2496,243,2653,313"/>
+<area shape="rect" id="node37" href="$db/d02/intrusive__ptr_8h.html" title="侵入式智能指针 " alt="" coords="563,243,720,313"/>
+<area shape="rect" id="node38" href="$d6/d93/lock__holder_8h.html" title="锁管理器 Licensed under the MIT licenses. " alt="" coords="795,243,952,313"/>
+<area shape="rect" id="node40" href="$d2/db4/uint64__id__allocator_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/utils\l/uint64_id_allocator.h" alt="" coords="145,243,306,313"/>
+<area shape="rect" id="node41" href="$d0/d45/task__action__impl_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcotask/impl\l/task_action_impl.h" alt="" coords="2779,243,2949,313"/>
+<area shape="rect" id="node43" href="$da/d1b/coroutine__context__fiber_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcopp/coroutine\l/coroutine_context_fiber.cpp" alt="" coords="2973,243,3179,313"/>
+<area shape="rect" id="node45" href="$df/d19/decltype_8h.html" title="decltype兼容层 Licensed under the MIT licenses. " alt="" coords="2527,124,2684,195"/>
+<area shape="rect" id="node46" href="$d4/db8/shell__font_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/cli/shell_font.h" alt="" coords="4283,131,4440,187"/>
+<area shape="rect" id="node47" href="$d3/d00/test__manager_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/frame/test_manager.cpp" alt="" coords="4326,250,4541,306"/>
+<area shape="rect" id="node48" href="$d8/d41/cmd__option__bindt__cc_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/cli/cmd_option\l_bindt_cc.h" alt="" coords="4515,124,4672,195"/>
+<area shape="rect" id="node49" href="$d9/d25/cmd__option__bindt__mf__cc_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/cli/cmd_option\l_bindt_mf_cc.h" alt="" coords="4696,124,4853,195"/>
+<area shape="rect" id="node50" href="$d6/df7/test__case__base_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/frame/test_case\l_base.h" alt="" coords="4877,124,5037,195"/>
+<area shape="rect" id="node3" href="$d3/d6b/coroutine__context_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/coroutine\l/coroutine_context.h" alt="" coords="713,613,903,684"/>
+<area shape="rect" id="node6" href="$d2/dd8/poll_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/future\l/poll.h" alt="" coords="929,495,1095,565"/>
+<area shape="rect" id="node8" href="$d5/d5a/stack__allocator_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/stack\l/stack_allocator.h" alt="" coords="1733,495,1896,565"/>
+<area shape="rect" id="node17" href="$d4/d43/coroutine__context__split__segment_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/coroutine\l_context_split_segment.cpp" alt="" coords="3751,495,3955,565"/>
+<area shape="rect" id="node21" href="$d1/d7d/stack__pool_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/stack\l/stack_pool.h" alt="" coords="1927,495,2089,565"/>
+<area shape="rect" id="node23" href="$df/d3f/stack__traits__windows_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcopp/stack/stack\l_traits/stack_traits_windows.cpp" alt="" coords="2793,495,3028,565"/>
+<area shape="rect" id="node25" href="$da/d94/spin__lock_8h.html" title="自旋锁 Licensed under the MIT licenses. " alt="" coords="613,369,771,439"/>
+<area shape="rect" id="node27" href="$df/dd1/uint64__id__allocator_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcopp/utils/uint64\l_id_allocator.cpp" alt="" coords="213,369,387,439"/>
+<area shape="rect" id="node29" href="$dc/d9b/stack__traits_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/stack\l/stack_traits.h" alt="" coords="2339,369,2501,439"/>
+<area shape="rect" id="node30" href="$db/da4/task_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcotask/task.h" alt="" coords="2114,502,2294,558"/>
+<area shape="rect" id="node31" href="$dc/db4/atomic__int__type__msvc__impl_8h.html" title="整数类型的原子操作&#45;MSVC统一接口 Licensed under the MIT licenses. " alt="" coords="1512,243,1733,313"/>
+<area shape="rect" id="node36" href="$d8/d04/standard__new__allocator_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcotask/core\l/standard_new_allocator.h" alt="" coords="1499,369,1691,439"/>
+<area shape="rect" id="node39" href="$db/d95/coroutine_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/utils\l/std/coroutine.h" alt="" coords="1077,243,1235,313"/>
+<area shape="rect" id="node42" href="$df/d8b/sample__readme__11_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_readme\l_11.cpp" alt="" coords="1758,243,1941,313"/>
+<area shape="rect" id="node44" href="$d6/dd8/fcontext__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/fcontext_test.cpp" alt="" coords="2016,250,2219,306"/>
+<area shape="rect" id="node33" href="$d7/da3/fcontext__arm_8hpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/fcontext\l/detail/fcontext_arm.hpp" alt="" coords="2526,369,2709,439"/>
+<area shape="rect" id="node34" href="$d8/d41/fcontext__arm__mac_8hpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/fcontext\l/detail/fcontext_arm_mac.hpp" alt="" coords="2733,369,2950,439"/>
+<area shape="rect" id="node35" href="$d8/d8c/fcontext__arm__win_8hpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcopp/fcontext\l/detail/fcontext_arm_win.hpp" alt="" coords="2974,369,3186,439"/>
+</map>

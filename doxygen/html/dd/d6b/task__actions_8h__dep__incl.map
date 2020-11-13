@@ -1,0 +1,23 @@
+<map id="/home/travis/build/owt5008137/libcopp/include/libcotask/task_actions.h" name="/home/travis/build/owt5008137/libcopp/include/libcotask/task_actions.h">
+<area shape="rect" id="node2" href="$d3/dfa/task__impl_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcotask/impl\l/task_impl.h" alt="" coords="1421,124,1591,195"/>
+<area shape="rect" id="node3" href="$da/d2c/task__macros_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcotask/task\l_macros.h" alt="" coords="1231,243,1399,313"/>
+<area shape="rect" id="node20" href="$dd/de0/this__task_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcotask/this\l_task.h" alt="" coords="1424,243,1588,313"/>
+<area shape="rect" id="node22" href="$d9/d45/task__impl_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcotask/impl/task\l_impl.cpp" alt="" coords="1613,243,1786,313"/>
+<area shape="rect" id="node4" href="$db/da4/task_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcotask/task.h" alt="" coords="1321,369,1501,425"/>
+<area shape="rect" id="node19" href="$db/de2/task__manager_8h.html" title="/home/travis/build\l/owt5008137/libcopp\l/include/libcotask/task\l_manager.h" alt="" coords="262,361,430,432"/>
+<area shape="rect" id="node5" href="$d2/d4c/sample__benchmark__task_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_benchmark\l_task.cpp" alt="" coords="1707,480,1913,551"/>
+<area shape="rect" id="node6" href="$d7/d4c/sample__benchmark__task__malloc_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_benchmark\l_task_malloc.cpp" alt="" coords="1937,480,2144,551"/>
+<area shape="rect" id="node7" href="$db/d49/sample__benchmark__task__mem__pool_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_benchmark\l_task_mem_pool.cpp" alt="" coords="2168,480,2375,551"/>
+<area shape="rect" id="node8" href="$d1/dc7/sample__benchmark__task__stack__pool_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_benchmark\l_task_stack_pool.cpp" alt="" coords="2399,480,2605,551"/>
+<area shape="rect" id="node9" href="$da/dcb/sample__readme__10_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_readme\l_10.cpp" alt="" coords="2629,480,2812,551"/>
+<area shape="rect" id="node10" href="$d4/d8e/sample__readme__2_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_readme_2.cpp" alt="" coords="2836,487,3061,543"/>
+<area shape="rect" id="node11" href="$dd/de3/sample__readme__3_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_readme_3.cpp" alt="" coords="5,487,231,543"/>
+<area shape="rect" id="node12" href="$df/d10/sample__readme__4_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_readme_4.cpp" alt="" coords="461,487,687,543"/>
+<area shape="rect" id="node13" href="$d6/df3/sample__readme__5_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/sample/sample_readme_5.cpp" alt="" coords="711,487,936,543"/>
+<area shape="rect" id="node14" href="$d9/d9f/coroutine__task__fiber__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/coroutine\l_task_fiber_test.cpp" alt="" coords="961,480,1118,551"/>
+<area shape="rect" id="node15" href="$d4/d67/coroutine__task__manager__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/coroutine\l_task_manager_test.cpp" alt="" coords="255,480,437,551"/>
+<area shape="rect" id="node16" href="$de/d7a/coroutine__task__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/coroutine\l_task_test.cpp" alt="" coords="1142,480,1299,551"/>
+<area shape="rect" id="node17" href="$d1/d18/future__and__std__coroutine__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/future_and\l_std_coroutine_test.cpp" alt="" coords="1323,480,1499,551"/>
+<area shape="rect" id="node18" href="$d4/d84/stack__pool__test_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/test/case/stack_pool\l_test.cpp" alt="" coords="1524,480,1683,551"/>
+<area shape="rect" id="node21" href="$d7/d50/this__task_8cpp.html" title="/home/travis/build\l/owt5008137/libcopp\l/src/libcotask/this_task.cpp" alt="" coords="1525,369,1724,425"/>
+</map>

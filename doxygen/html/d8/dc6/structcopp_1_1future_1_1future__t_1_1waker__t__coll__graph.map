@@ -1,0 +1,3 @@
+<map id="copp::future::future_t&lt; T, TPTR &gt;::waker_t" name="copp::future::future_t&lt; T, TPTR &gt;::waker_t">
+<area shape="rect" id="node2" href="$d1/d3a/classcopp_1_1future_1_1future__t.html" title="{copp::future::future\l_t\&lt; T, TPTR \&gt;\n|&#45; clear_ctx_waker_\l&#45; poll_data_\l|+ future_t()\l+ ~future_t()\l+ is_ready()\l+ is_pending()\l+ poll()\l+ poll_as()\l+ data()\l+ data()\l+ raw_ptr()\l+ raw_ptr()\l+ poll_data()\l+ poll_data()\l+ reset_data()\l+ clear_ctx_waker()\l+ set_ctx_waker()\l# poll_as()\l&#45; future_t()\l&#45; operator=()\l&#45; future_t()\l&#45; operator=()\l}" alt="" coords="15,5,169,391"/>
+</map>

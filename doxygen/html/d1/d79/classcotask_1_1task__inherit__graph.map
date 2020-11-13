@@ -1,0 +1,3 @@
+<map id="cotask::task&lt; TCO_MACRO &gt;" name="cotask::task&lt; TCO_MACRO &gt;">
+<area shape="rect" id="node2" href="$d1/d7a/classcotask_1_1impl_1_1task__impl.html" title="{cotask::impl::task_impl\n|# action_ptr_t\l# finish_priv_data_\l&#45; action_\l&#45; id_\l&#45; status_\l|+ task_impl()\l+ ~task_impl()\l+ get_id()\l+ get_status()\l+ is_canceled()\l+ is_completed()\l+ is_faulted()\l+ is_timeout()\l+ is_exiting()\l+ get_ret_code()\land 14 more...\l+ this_task()\l# _set_action()\l# _get_action()\l# _cas_status()\l# _notify_finished()\l&#45; task_impl()\l&#45; operator=()\l}" alt="" coords="24,5,199,391"/>
+</map>

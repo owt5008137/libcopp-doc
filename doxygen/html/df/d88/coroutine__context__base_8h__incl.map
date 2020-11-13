@@ -1,0 +1,17 @@
+<map id="/home/travis/build/owt5008137/libcopp/include/libcopp/coroutine/coroutine_context_base.h" name="/home/travis/build/owt5008137/libcopp/include/libcopp/coroutine/coroutine_context_base.h">
+<area shape="rect" id="node3" href="$dc/dd4/all_8hpp.html" title="libcopp/fcontext/all.hpp" alt="" coords="367,131,542,158"/>
+<area shape="rect" id="node6" href="$de/d47/features_8h.html" title="libcopp/utils/features.h" alt="" coords="235,310,405,337"/>
+<area shape="rect" id="node7" href="$d5/d31/compiler__features_8h.html" title="libcopp/utils/config\l/compiler_features.h" alt="" coords="450,481,606,523"/>
+<area shape="rect" id="node8" href="$d0/d92/libcopp__build__features_8h.html" title="libcopp/utils/config\l/libcopp_build_features.h" alt="" coords="674,392,859,433"/>
+<area shape="rect" id="node14" href="$dc/db2/stack__context_8h.html" title="libcopp/stack/stack\l_context.h" alt="" coords="532,213,679,255"/>
+<area shape="rect" id="node15" href="$da/dc7/atomic__int__type_8h.html" title="整数类型的原子操作跨平台适配 Licensed under the MIT licenses. " alt="" coords="754,213,905,255"/>
+<area shape="rect" id="node18" href="$db/d02/intrusive__ptr_8h.html" title="侵入式智能指针 " alt="" coords="1155,213,1317,255"/>
+<area shape="rect" id="node22" href="$d8/dea/functional_8h.html" title="导入高级库，hash、引用包装等 Licensed under the MIT licenses. " alt="" coords="1271,131,1478,158"/>
+<area shape="rect" id="node25" href="$d9/df0/smart__ptr_8h.html" title="导入智能指针库 Licensed under the MIT licenses. " alt="" coords="1553,124,1719,165"/>
+<area shape="rect" id="node4" href="$de/de7/fcontext_8hpp.html" title="libcopp/fcontext/fcontext.hpp" alt="" coords="295,221,508,247"/>
+<area shape="rect" id="node12" href="$d8/dfd/config_8hpp.html" title="libcopp/fcontext/detail\l/config.hpp" alt="" coords="43,303,211,344"/>
+<area shape="rect" id="node10" href="$df/d19/decltype_8h.html" title="decltype兼容层 Licensed under the MIT licenses. " alt="" coords="200,399,397,426"/>
+<area shape="rect" id="node11" href="$d8/dc2/errno_8h.html" title="errno.h" alt="" coords="422,399,490,426"/>
+<area shape="rect" id="node9" href="$df/d29/compile__optimize_8h.html" title="compile_optimize.h" alt="" coords="691,489,842,515"/>
+<area shape="rect" id="node16" href="$d8/def/explicit__declare_8h.html" title="导入继承关系约束 &#160;Licensed under the MIT licenses. " alt="" coords="867,310,1029,337"/>
+</map>
