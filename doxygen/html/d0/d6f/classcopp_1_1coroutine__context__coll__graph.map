@@ -1,0 +1,6 @@
+<map id="copp::coroutine_context" name="copp::coroutine_context">
+<area shape="rect" id="node1" title="base type of all coroutine context" alt="" coords="180,813,359,1111"/>
+<area shape="rect" id="node2" href="$dd/d7b/classcopp_1_1coroutine__context__base.html" title="base type of all coroutine context" alt="" coords="5,351,221,751"/>
+<area shape="rect" id="node3" href="$d6/dad/classlibcopp_1_1util_1_1lock_1_1atomic__int__type.html" title=" " alt="" coords="22,5,205,288"/>
+<area shape="rect" id="node4" href="$dd/df5/structcopp_1_1stack__context.html" title=" " alt="" coords="245,468,397,633"/>
+</map>

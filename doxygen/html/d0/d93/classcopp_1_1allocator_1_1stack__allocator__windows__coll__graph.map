@@ -1,0 +1,3 @@
+<map id="copp::allocator::stack_allocator_windows" name="copp::allocator::stack_allocator_windows">
+<area shape="rect" id="node1" title="memory allocator this allocator will create buffer using windows api and protect it" alt="" coords="5,5,227,171"/>
+</map>

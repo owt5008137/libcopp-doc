@@ -1,0 +1,3 @@
+<map id="copp::allocator::stack_allocator_malloc" name="copp::allocator::stack_allocator_malloc">
+<area shape="rect" id="node1" title="memory allocator this allocator will maintain buffer using malloc/free function" alt="" coords="5,5,213,171"/>
+</map>

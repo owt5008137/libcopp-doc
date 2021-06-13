@@ -1,0 +1,40 @@
+<map id="/home/runner/work/libcopp/libcopp/src/libcotask/impl/task_impl.cpp" name="/home/runner/work/libcopp/libcopp/src/libcotask/impl/task_impl.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="827,5,1023,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,117,91,143"/>
+<area shape="rect" id="node3" title=" " alt="" coords="89,459,154,486"/>
+<area shape="rect" id="node4" title=" " alt="" coords="367,638,441,665"/>
+<area shape="rect" id="node5" href="$d3/d6b/coroutine__context_8h.html" title=" " alt="" coords="894,199,1093,240"/>
+<area shape="rect" id="node30" href="$d1/d05/coroutine__context__fiber_8h.html" title=" " alt="" coords="962,109,1161,151"/>
+<area shape="rect" id="node31" href="$d0/d45/task__action__impl_8h.html" title=" " alt="" coords="2180,541,2327,583"/>
+<area shape="rect" id="node32" href="$d3/dfa/task__impl_8h.html" title=" " alt="" coords="1853,363,2000,404"/>
+<area shape="rect" id="node6" href="$db/d50/coroutine__context__base_8h.html" title=" " alt="" coords="899,288,1088,315"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1219,638,1290,665"/>
+<area shape="rect" id="node8" href="$dc/db2/stack__context_8h.html" title=" " alt="" coords="780,452,927,493"/>
+<area shape="rect" id="node9" href="$d5/d31/compiler__features_8h.html" title=" " alt="" coords="1287,720,1443,761"/>
+<area shape="rect" id="node10" href="$d0/d92/libcopp__build__features_8h.html" title=" " alt="" coords="1847,631,2033,672"/>
+<area shape="rect" id="node12" href="$de/d47/features_8h.html" title=" " alt="" coords="649,549,820,575"/>
+<area shape="rect" id="node15" href="$da/dc7/atomic__int__type_8h.html" title="整数类型的原子操作跨平台适配 Licensed under the MIT licenses." alt="" coords="1530,541,1681,583"/>
+<area shape="rect" id="node19" href="$db/d02/intrusive__ptr_8h.html" title="侵入式智能指针" alt="" coords="463,541,625,583"/>
+<area shape="rect" id="node22" href="$d8/dea/functional_8h.html" title="导入高级库，hash、引用包装等 Licensed under the MIT licenses." alt="" coords="166,370,373,397"/>
+<area shape="rect" id="node24" href="$d9/df0/smart__ptr_8h.html" title="导入智能指针库 Licensed under the MIT licenses." alt="" coords="1341,452,1507,493"/>
+<area shape="rect" id="node26" href="$dc/dd4/all_8hpp.html" title=" " alt="" coords="950,370,1125,397"/>
+<area shape="rect" id="node11" href="$df/d29/compile__optimize_8h.html" title=" " alt="" coords="1865,727,2015,754"/>
+<area shape="rect" id="node13" href="$df/d19/decltype_8h.html" title="decltype兼容层 Licensed under the MIT licenses." alt="" coords="863,638,1060,665"/>
+<area shape="rect" id="node14" href="$d8/dc2/errno_8h.html" title=" " alt="" coords="770,638,838,665"/>
+<area shape="rect" id="node16" href="$d8/def/explicit__declare_8h.html" title="导入继承关系约束 &#160;Licensed under the MIT licenses." alt="" coords="1403,638,1565,665"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1589,638,1659,665"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1683,638,1754,665"/>
+<area shape="rect" id="node20" title=" " alt="" coords="516,638,593,665"/>
+<area shape="rect" id="node21" title=" " alt="" coords="618,638,694,665"/>
+<area shape="rect" id="node23" title=" " alt="" coords="179,459,328,486"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1340,549,1505,575"/>
+<area shape="rect" id="node27" href="$de/de7/fcontext_8hpp.html" title=" " alt="" coords="951,459,1164,486"/>
+<area shape="rect" id="node28" href="$d8/dfd/config_8hpp.html" title=" " alt="" coords="945,541,1113,583"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1135,638,1195,665"/>
+<area shape="rect" id="node33" title=" " alt="" coords="2268,459,2311,486"/>
+<area shape="rect" id="node34" href="$d2/db4/uint64__id__allocator_8h.html" title=" " alt="" coords="1756,541,1903,583"/>
+<area shape="rect" id="node35" href="$d6/d93/lock__holder_8h.html" title="锁管理器 Licensed under the MIT licenses." alt="" coords="2351,541,2483,583"/>
+<area shape="rect" id="node37" href="$da/d94/spin__lock_8h.html" title="自旋锁 Licensed under the MIT licenses." alt="" coords="1757,452,1889,493"/>
+<area shape="rect" id="node38" href="$db/dfd/task__actions_8h.html" title=" " alt="" coords="2065,459,2244,486"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2384,638,2451,665"/>
+</map>

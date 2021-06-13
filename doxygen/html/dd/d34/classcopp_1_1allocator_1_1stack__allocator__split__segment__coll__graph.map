@@ -1,0 +1,3 @@
+<map id="copp::allocator::stack_allocator_split_segment" name="copp::allocator::stack_allocator_split_segment">
+<area shape="rect" id="node1" title="memory allocator this allocator will create buffer using gcc split segment api" alt="" coords="5,5,191,215"/>
+</map>

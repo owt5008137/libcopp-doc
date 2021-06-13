@@ -1,0 +1,5 @@
+<map id="copp::coroutine_context" name="copp::coroutine_context">
+<area shape="rect" id="node1" title="base type of all coroutine context" alt="" coords="29,468,208,780"/>
+<area shape="rect" id="node3" href="$d0/d14/classcopp_1_1coroutine__context__container.html" title="coroutine container contain stack context, stack allocator and runtime fcontext" alt="" coords="5,828,232,1111"/>
+<area shape="rect" id="node2" href="$dd/d7b/classcopp_1_1coroutine__context__base.html" title="base type of all coroutine context" alt="" coords="11,5,227,420"/>
+</map>
